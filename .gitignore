@@ -1,0 +1,121 @@
+# =========================
+
+# Unity Generated Folders
+
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+
+# Memory Captures
+
+# =========================
+
+MemoryCaptures/
+
+# =========================
+
+# Asset meta data (KEEP .meta files!)
+
+# =========================
+
+!*.meta
+
+# =========================
+
+# Visual Studio / Rider / VSCode
+
+# =========================
+
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+
+.idea/
+
+# VSCode
+
+.vscode/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Unity Cache / Crash
+
+# =========================
+
+sysinfo.txt
+
+# =========================
+
+# Builds
+
+# =========================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+
+# Addressables (opcional)
+
+# =========================
+
+ServerData/
+
+# =========================
+
+# Profiling
+
+# =========================
+
+*.raw
+
+# =========================
+
+# Android / Gradle
+
+# =========================
+
+.gradle/
+
+# Se usar export de projeto Android:
+
+ExportedObj/
+
+# =========================
+
+# IL2CPP
+
+# =========================
+
+il2cppOutput/
