@@ -1,6 +1,7 @@
 # Jogo Nave Rato 🚀🐭
 
 Um jogo desenvolvido no Unity, onde o jogador controla uma nave enfrentando desafios espaciais.
+O jogador deve desviar de árvores e inimigos para que não perca, enquanto temo objetivo de coletar 5 queijos para finalizar a fase.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Unity** (Versão Recomendada: 2022.3.62f3)
@@ -13,7 +14,9 @@ O projeto conta com um sistema de HUD dinâmico que exibe:
 * **Contador de Itens:** Exibe a quantidade de itens coletados pelo jogador.
 * **Instruções de Vitória:** Texto dinâmico que orienta o jogador sobre o objetivo para vencer.
 Sistema de Geração de Inimigos:
-* **Inimigo1:** Se movimenta de forma aleatória da direita para esquerda
+* **Inimigo1:** Se movimenta de forma aleatória da direita para esquerda.
+* **Inimigo2:** Se movimenta de forma aleatória de cima para baixo.
+*  **Queijo:** Fica girando e segue em frente para o jogador ter a chance de coleta-lo.
 
 ## 🚀 Como executar o projeto
 
@@ -38,6 +41,7 @@ Certifique-se de ter o **Unity Hub** instalado em sua máquina.
 
 ## 🕹️ Controles
 * **Movimentação:** Teclas `W`, `A`, `S`, `D` ou Setas.
+* **Confirmar:** Espaço.
 
 ---
 Desenvolvido por:
